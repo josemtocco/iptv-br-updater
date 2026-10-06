@@ -1,1 +1,47 @@
+#EXTM3U
+# ------------------------------------------------------------
+# Canais de TV brasileiros - lista limpa (apenas canais estaveis)
+# Fontes publicas / abertas / FAST (legais) - verificados ao vivo
+# Gerado em: 2026-10-06
+# Compativel com VLC, Tivimate, IPTV Smarters, OTT Navigator etc.
+# ------------------------------------------------------------
 
+# ===== PUBLICOS / GOVERNO (os mais estaveis) =====
+#EXTINF:-1 tvg-id="TVBrasil.br" tvg-name="TV Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/TV_Brasil_logo.svg" group-title="Publicos / Governo",TV Brasil (EBC)
+https://tvbrasil-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-id="CanalGov.br" tvg-name="Canal Gov" tvg-logo="" group-title="Publicos / Governo",Canal Gov (EBC)
+https://canalgov-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-id="CanalEducacao.br" tvg-name="Canal Educacao" tvg-logo="" group-title="Publicos / Governo",Canal Educacao (EBC)
+https://canaleducacao-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-id="TVCamara.br" tvg-name="TV Camara" tvg-logo="https://i.imgur.com/UpV2PRk.png" group-title="Publicos / Governo",TV Camara
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+
+# ===== EDUCATIVOS / CULTURA =====
+#EXTINF:-1 tvg-id="TVCultura.br" tvg-name="TV Cultura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Cultura_logo_2013.svg" group-title="Cultura",TV Cultura
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+#EXTINF:-1 tvg-id="CulturaFast.br" tvg-name="Cultura Fast" tvg-logo="" group-title="Cultura",Cultura Fast
+https://fpa-gateway.tvcultura.com.br:8181/memfs/606caef0-a290-413d-9f1f-8fcdb3a73831.m3u8
+#EXTINF:-1 tvg-id="CanalFutura.br" tvg-name="Futura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Canal_Futura_2022.svg" group-title="Cultura",Futura
+http://168.197.104.22/FUTURA/index.m3u8
+
+# ===== ABERTOS / VARIEDADES =====
+#EXTINF:-1 tvg-id="Band.br" tvg-name="Band" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Band_logo_2011.svg" group-title="Abertos",Band
+https://media.cdntvms.com.br/band_sat/index.m3u8
+#EXTINF:-1 tvg-id="RedeBrasil.br" tvg-name="Rede Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/Marca_rede_brasil_rgb-color.png" group-title="Abertos",Rede Brasil
+https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8
+#EXTINF:-1 tvg-id="COMBrasil.br" tvg-name="COM Brasil" tvg-logo="https://i.imgur.com/c8ztQnF.png" group-title="Abertos",COM Brasil
+https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
+#EXTINF:-1 tvg-id="AmazonSat.br" tvg-name="Amazon Sat" tvg-logo="" group-title="Abertos",Amazon Sat
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+#EXTINF:-1 tvg-id="CanalUOL.br" tvg-name="Canal UOL" tvg-logo="" group-title="Abertos",Canal UOL
+https://video24.mais.uol.com.br/live/6146.m3u8
+
+# ===== NOTICIAS =====
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-name="Record News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Record_News_logo_2023.svg" group-title="Noticias",Record News
+https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
+
+# ===== FAST / ENTRETENIMENTO =====
+#EXTINF:-1 tvg-id="geFast.br" tvg-name="ge Fast" tvg-logo="" group-title="FAST / Esportes",ge Fast (Globo)
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8
+#EXTINF:-1 tvg-id="CINDIETV.br" tvg-name="CINDIE TV" tvg-logo="" group-title="FAST / Entretenimento",CINDIE TV
+https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
