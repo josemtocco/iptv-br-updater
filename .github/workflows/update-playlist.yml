@@ -1,1 +1,40 @@
+name: Atualizar listas IPTV BR
 
+on:
+  schedule:
+    # Roda todo dia as 06:00 UTC (03:00 em Brasilia). Ajuste se quiser.
+    - cron: "0 6 * * *"
+  workflow_dispatch: {}   # permite rodar manualmente pelo botao "Run workflow"
+
+permissions:
+  contents: write          # necessario para fazer commit das listas atualizadas
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Gerar listas
+        run: python update_playlist.py --workers 40 --timeout 8
+
+      - name: Commit das listas atualizadas
+        run: |
+          git config user.name  "iptv-bot"
+          git config user.email "iptv-bot@users.noreply.github.com"
+          git add playlists/
+          if git diff --staged --quiet; then
+            echo "Nada mudou."
+          else
+            git commit -m "chore: atualizacao automatica das listas ($(date -u +%F))"
+            git push
+          fi
