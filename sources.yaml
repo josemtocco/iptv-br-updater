@@ -1,0 +1,30 @@
+# ============================================================
+# Configuracao do IPTV-BR Updater
+# ============================================================
+
+# Fontes de listas M3U (apenas projetos publicos/legais).
+# Voce pode adicionar/remover URLs a vontade.
+sources:
+  # iptv-org - lista mundial, secao Brasil (centenas de canais)
+  - https://raw.githubusercontent.com/iptv-org/iptv/master/streams/br.m3u
+  # Free-TV/IPTV - lista brasileira curada
+  - https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_brazil.m3u8
+
+# (Opcional) manter SOMENTE canais cujos grupos contenham estes termos.
+# Deixe a lista vazia para manter todos os grupos.
+# Exemplo para focar em canais publicos/educativos:
+#   only_groups: ["publico", "governo", "cultura", "educa", "noticia"]
+only_groups: []
+
+# Blocklist anti-pirata / anti-lixo: qualquer canal cuja URL, nome ou grupo
+# contenha um destes termos sera descartado. Ajuste conforme necessario.
+blocklist:
+  - premiere
+  - telecine
+  - hbo
+  - sportv
+  - combate
+  - megapix
+  - adult
+  - xxx
+  - "18+"
