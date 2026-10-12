@@ -1,8 +1,10 @@
 #EXTM3U
 # Todos os canais coletados (fontes publicas/legais)
-# Gerado em: 2026-10-11T12:02:01
-# Total de canais: 279
+# Gerado em: 2026-10-12T14:18:35
+# Total de canais: 280
 
+#EXTINF:-1 tvg-id="PlusMaisUm.br@HD",+MaisUm (720p)
+https://stream.ichibansys.com:3230/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="1001Noites.br@SD",1001 Noites (720p) [Not 24/7]
 https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
 #EXTINF:-1 tvg-id="AdessoTV.br@SD",Adesso TV (720p)
