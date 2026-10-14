@@ -1,7 +1,7 @@
 #EXTM3U
 # Todos os canais coletados (fontes publicas/legais)
-# Gerado em: 2026-10-13T13:28:06
-# Total de canais: 280
+# Gerado em: 2026-10-14T11:05:39
+# Total de canais: 281
 
 #EXTINF:-1 tvg-id="PlusMaisUm.br@HD",+MaisUm (720p)
 https://stream.ichibansys.com:3230/hybrid/play.m3u8
@@ -307,6 +307,8 @@ https://hls.brasilstream.com.br/live/redetv/redetv/playlist.m3u8
 https://cdn-5.nxplay.com.br/REDE_VIDA/index.m3u8
 #EXTINF:-1 tvg-id="RedeTVParana.br@SD",RedeTV! Parana
 https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
+#EXTINF:-1 tvg-id="RetroCartoon.br@SD",Retro Cartoon (720p)
+https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1069200121.m3u8
 #EXTINF:-1 tvg-id="RITTV.br@SD",RIT TV (1080p)
 https://acesso.ecast.site:3648/live/ritlive.m3u8
 #EXTINF:-1 tvg-id="SantaCeciliaTV.br@SD",Santa Cecilia TV (1080p)
