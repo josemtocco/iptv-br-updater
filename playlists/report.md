@@ -1,10 +1,10 @@
 # Relatorio de atualizacao - IPTV BR
 
-- Data: 2026-10-15T10:47:52
-- Tempo de execucao: 25.2s
+- Data: 2026-10-16T10:36:05
+- Tempo de execucao: 23.2s
 - Canais coletados (dedup): 281
-- Canais estaveis (passaram): 156
-- Canais fora do ar: 125
+- Canais estaveis (passaram): 151
+- Canais fora do ar: 130
 
 ## Fontes
 
