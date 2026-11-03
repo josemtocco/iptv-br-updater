@@ -1,8 +1,10 @@
 #EXTM3U
 # Apenas canais verificados ao vivo
-# Gerado em: 2026-11-02T14:39:45
-# Total de canais: 155
+# Gerado em: 2026-11-03T13:32:38
+# Total de canais: 158
 
+#EXTINF:-1 tvg-id="PlusMaisUm.br@HD",+MaisUm (720p)
+https://stream.ichibansys.com:3230/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="AdessoTV.br@SD",Adesso TV (720p)
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
 #EXTINF:-1 tvg-id="AgroCanal.br@SD",AgroCanal
@@ -93,8 +95,6 @@ https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8
 #EXTINF:-1 tvg-id="FishTV.br@SD",Fish TV (720p)
 http://45.162.64.114/FISH_TV/index.m3u8
-#EXTINF:-1 tvg-id="FonteTV.br@SD",Fonte TV
-https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/chunklist_w1224511652.m3u8
 #EXTINF:-1 tvg-id="Futura.br@SD",Futura (720p)
 http://170.83.49.66:8083/FUTURAHD/index.m3u8
 #EXTINF:-1 tvg-id="geFast.br@SD",ge Fast (1080p)
@@ -191,6 +191,8 @@ https://video09.logicahost.com.br/sbtroo/sbtroo/playlist.m3u8
 https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
 #EXTINF:-1 tvg-id="SonyMovies.br@SD",Sony Movies (720p)
 http://45.162.64.114/SONY_MOVIES/index.m3u8
+#EXTINF:-1 tvg-id="SOUTV.br@SD",SOU TV
+https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8
 #EXTINF:-1 tvg-id="STZTV.br@SD",STZ TV (1080p)
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8
 #EXTINF:-1 tvg-id="TCM10HD.br@SD",TCM 10 HD (1080p)
@@ -283,8 +285,12 @@ http://45.162.64.114/TV_SENADO/index.m3u8
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 #EXTINF:-1 tvg-id="TVShowFortaleza.br@SD",TV Show Fortaleza (720p)
 https://stmv8.samcast.com.br/raimundoanselmolimamororo1908/raimundoanselmolimamororo1908/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSimCachoeiro.br@SD",TV Sim Cachoeiro (720p)
+https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSimSaoMateus.br@SD",TV Sim São Mateus (720p)
 https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSulBahia.br@SD",TV Sul Bahia (320p)
+https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSaoRaimundo.br@SD",TV São Raimundo (268p)
 https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8
 #EXTINF:-1 tvg-id="TVTerceiroAnjo.br@SD",TV Terceiro Anjo (360p)
@@ -299,8 +305,8 @@ https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPlusPet.br@SD",TV+Pet
 https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8
-#EXTINF:-1 tvg-id="TVCRio.br@SD",TVC-Rio
-https://video05.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8
+#EXTINF:-1 tvg-id="TVComunitaria.br@SD",TVCOM DF (360p)
+https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?DVR=
 #EXTINF:-1 tvg-id="TVCOMMaceio.br@SD",TVCOM Maceió (480p)
 https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8
 #EXTINF:-1 tvg-id="TVERS.br@SD",TVE RS (1080p)
