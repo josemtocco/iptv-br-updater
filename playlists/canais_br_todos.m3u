@@ -1,6 +1,6 @@
 #EXTM3U
 # Todos os canais coletados (fontes publicas/legais)
-# Gerado em: 2026-11-17T15:26:39
+# Gerado em: 2026-11-18T15:00:37
 # Total de canais: 279
 
 #EXTINF:-1 tvg-id="PlusMaisUm.br@HD",+MaisUm (720p)
@@ -19,7 +19,7 @@ http://45.177.114.115/agromais/index.m3u8
 https://5b01a3d32b65c.streamlock.net:1936/tvalpha/tvalpha/playlist.m3u8
 #EXTINF:-1 tvg-id="AmazonSat.br@SD",Amazon Sat (1080p)
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
-#EXTINF:-1 tvg-id="ArarunaTV.br@SD",Araruna TV
+#EXTINF:-1 tvg-id="ArarunaTV.br@SD",Araruna TV (614p)
 https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
 #EXTINF:-1 tvg-id="AratuOn.br@SD",Aratu On (1080p)
 https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
@@ -87,7 +87,7 @@ http://170.83.49.66:8083/CANALRURALHD/index.m3u8
 https://eitv7.cdn.broadpeak.io/account351-i1495/event/canalsaude/format720p.m3u8
 #EXTINF:-1 tvg-id="CanalSaude.br@SD",Canal Saúde (720p) [Not 24/7]
 https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalSete.br@SD",Canal Sete
+#EXTINF:-1 tvg-id="CanalSete.br@SD",Canal Sete (1080p)
 http://play.canalsete.com.br:1935/canalsete/xpl-c7_source/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalSTART.br@SD",Canal START (720p)
 https://cdn-tiva-srv5-zcast-com-br.smartbit.co/canalstart/canalstart/playlist.m3u8
@@ -226,13 +226,13 @@ https://cdn.livespanel.com/nossatv/nossatv/playlist.m3u8
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ODiaTV.br@SD",O Dia TV (450p)
 https://6836041ea1117.streamlock.net/tvodia/tvodia/playlist.m3u8
-#EXTINF:-1 tvg-id="PetloversTV.br@SD",Petlovers TV
+#EXTINF:-1 tvg-id="PetloversTV.br@SD",Petlovers TV (720p)
 https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
 #EXTINF:-1 tvg-id="PlayTV.br@SD",Play TV (720p)
 https://isaocorp.cloudecast.com/playtv/index.m3u8
 #EXTINF:-1 tvg-id="PlenaTV.br@SD",Plena TV (720p)
 https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8
-#EXTINF:-1 tvg-id="PlenitudeTV.br@SD",Plenitude TV
+#EXTINF:-1 tvg-id="PlenitudeTV.br@SD",Plenitude TV (1080p)
 https://strv.painelvox.top/plenitude/plenitude/playlist.m3u8
 #EXTINF:-1 tvg-id="PrimerTV.br@SD",Primer TV (1080p)
 http://200.194.238.229:8383/live/primer/playlist.m3u8
@@ -299,7 +299,7 @@ https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8
 https://hls.brasilstream.com.br/live/redetv/redetv/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeVida.br@SD",Rede Vida (576p)
 https://cdn-5.nxplay.com.br/REDE_VIDA/index.m3u8
-#EXTINF:-1 tvg-id="RedeTVParana.br@SD",RedeTV! Parana
+#EXTINF:-1 tvg-id="RedeTVParana.br@SD",RedeTV! Parana (1080p)
 https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 #EXTINF:-1 tvg-id="RetroCartoon.br@SD",Retro Cartoon (720p)
 https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1069200121.m3u8
@@ -337,7 +337,7 @@ https://slime.x1co.com.br/hls/stream.m3u8
 https://cdn-5.nxplay.com.br/SONY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="SonyMovies.br@SD",Sony Movies (720p)
 http://45.177.114.115/SONY_MOVIES/index.m3u8
-#EXTINF:-1 tvg-id="SOUTV.br@SD",SOU TV
+#EXTINF:-1 tvg-id="SOUTV.br@SD",SOU TV (720p)
 https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8
 #EXTINF:-1 tvg-id="STZTV.br@SD",STZ TV (1080p)
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8
