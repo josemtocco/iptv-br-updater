@@ -1,7 +1,7 @@
 #EXTM3U
 # Todos os canais coletados (fontes publicas/legais)
-# Gerado em: 2026-11-18T15:00:37
-# Total de canais: 279
+# Gerado em: 2026-11-19T15:10:17
+# Total de canais: 280
 
 #EXTINF:-1 tvg-id="PlusMaisUm.br@HD",+MaisUm (720p)
 https://stream.ichibansys.com:3230/hybrid/play.m3u8
@@ -275,6 +275,8 @@ http://186.219.52.187/rede_familia/index.m3u8
 https://cdn-sp2.satlabscloud.com.br/RBS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #EXTINF:-1 tvg-id="RedeGospel.br@SD",Rede Gospel (1080p)
 https://cdn.live.br1.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeImpactoGospelTV.br@HD",Rede Impacto Gospel TV (720p)
+https://radiosnet.site/hls/redeimpactogospeltv/redeimpactogospeltv.m3u8
 #EXTINF:-1 tvg-id="RedeMeioNorte.br@SD",Rede Meio Norte (720p)
 https://maystreaming.cloudecast.com/redemeio/index.m3u8
 #EXTINF:-1 tvg-id="RedeMetropole.br@SD",Rede Metropole (720p)
