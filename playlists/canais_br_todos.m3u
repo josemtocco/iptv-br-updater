@@ -1,7 +1,7 @@
 #EXTM3U
 # Todos os canais coletados (fontes publicas/legais)
-# Gerado em: 2026-11-20T14:50:29
-# Total de canais: 280
+# Gerado em: 2026-11-21T14:07:47
+# Total de canais: 281
 
 #EXTINF:-1 tvg-id="PlusMaisUm.br@HD",+MaisUm (720p)
 https://stream.ichibansys.com:3230/hybrid/play.m3u8
@@ -214,6 +214,8 @@ https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.br@SD",Nickelodeon (480p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
+#EXTINF:-1 tvg-id="NickOnlineBobEsponja.br@HD",NickOnline Bob Esponja [Not 24/7]
+https://bob.x1colegal.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="NickOnline.br@HD",NickOnline HD (720p)
 https://x1colegal.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="NovaEraTV.br@SD",Nova Era TV (1080p) [Not 24/7]
