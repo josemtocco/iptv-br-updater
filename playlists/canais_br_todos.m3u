@@ -1,7 +1,7 @@
 #EXTM3U
 # Todos os canais coletados (fontes publicas/legais)
-# Gerado em: 2026-11-23T17:16:11
-# Total de canais: 282
+# Gerado em: 2026-11-24T16:54:54
+# Total de canais: 283
 
 #EXTINF:-1 tvg-id="PlusMaisUm.br@HD",+MaisUm (720p)
 https://stream.ichibansys.com:3230/hybrid/play.m3u8
@@ -388,6 +388,8 @@ https://tvbrasil-stream.ebc.com.br/index.m3u8
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBrusque.br@SD",TV Brusque (720p)
 https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCAJUIWEB.br@HD",TV CAJUI WEB (720p)
+https://cdn.live.br1.jmvstream.com/webtv/tvcajui/playlist/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCamara.br@SD",TV Camara (720p)
 http://170.83.49.66:8083/TVCAMARAHD/index.m3u8
 #EXTINF:-1 tvg-id="TVCancaoNova.br@SD",TV Cancao Nova (720p)
